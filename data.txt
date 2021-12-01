@@ -1,0 +1,17 @@
+c++ basics*bill bates*1998*0-0-0*8*#
+c++ intermediate*jackie chan*2003*0-2-1*3*#
+kun_uz news*none*2021*2-2-1*2*#
+html5 for beginners*tom crus*2003*1-2-1*4*#
+java instructor*john doe*1997*1-2-3*6*#
+the hobbit*tolkien*1937*0-0-4*8*#
+harry potter*rowling*1997*0-0-5*44*#
+the little prince*antonie*1943*0-0-6*2*#
+dream of the red chamber*cao xueqin*1800*0-1-0*14*#
+and then there were none*agatha*1939*0-1-1*7*#
+the adventures of pinocchio*carlo*1881*0-1-2*5*#
+the da vinci code*dan brown*2003*0-1-3*5*#
+the alchemist*paulo*1988*0-1-4*11*#
+you can heal your life*louise*1984*0-1-4*6*#
+black beauty*anna sewell*1877*0-1-5*2*#
+watership down*richard adams*1972*0-1-6*10*#
+the ringer man*donleavy*1955*0-2-2*6*#
